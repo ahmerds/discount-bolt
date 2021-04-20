@@ -1,6 +1,6 @@
-# cab_rider
+# Discount Bolt
 
-A Ride Hailing App
+A Ride Hailing App (Bolt clone, don't tell anyone 🤐)
 
 ## Getting Started
 

@@ -4,13 +4,12 @@ A Ride Hailing App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses several firebase services, follow the instructions below to set the project up on your machine
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Create a firebase project on your firebase console.
+2. Add an Android and iOS app to your project. 
+3. Download the GoogleService-Info.plist file, copy this file to your ios/Runner folder.
+4. Download the google-services.json file and add it to your android app folder
+5. Setup firebase with your credentials on the main.dart file
+6. Run flutter pub get in the current working directory
+7. Try ocmpiling and running the project
